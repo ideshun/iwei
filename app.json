@@ -3,7 +3,8 @@
     "pages/index/index",
     "pages/logs/logs",
     "pages/me/me",
-    "pages/classify/classify"
+    "pages/classify/classify",
+    "pages/release/release"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -17,19 +18,19 @@
         "pagePath": "pages/index/index",
         "text": "首页",
         "iconPath": "/images/home.png",
-        "selectedIconPath":"/images/home.png"
+        "selectedIconPath": "/images/home.png"
       },
       {
         "pagePath": "pages/logs/logs",
         "text": "日志",
         "iconPath": "/images/msg.png",
-        "selectedIconPath":"/images/msg.png"
+        "selectedIconPath": "/images/msg.png"
       },
       {
         "pagePath": "pages/me/me",
         "text": "我的",
         "iconPath": "/images/me.png",
-        "selectedIconPath":"/images/me.png"
+        "selectedIconPath": "/images/me.png"
       }
     ]
   }
