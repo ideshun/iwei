@@ -1,2 +1,8 @@
 <!--pages/me/me.wxml-->
-<text>pages/me/me.wxml</text>
+<view class='container'>
+<image src=''></image>
+<view class='personal'>
+<view>点击登录</view>
+<view>登录只需一秒，就能体验更多功能</view>
+</view>
+</view>
