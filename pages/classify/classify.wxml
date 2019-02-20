@@ -1,2 +1,35 @@
 <!--pages/classify.wxml-->
-<text>分类</text>
+<view class='cla-outer'>
+  <view class='cla-inner'>
+    <image src='../../images/cla1.png'></image>
+    <text>人才服务</text>
+  </view>
+  <view class='cla-inner'>
+    <image src='../../images/cla2.png'></image>
+    <text>金融服务</text>
+  </view>
+  <view class='cla-inner'>
+    <image src='../../images/cla3.png'></image>
+    <text>财税服务</text>
+  </view>
+  <view class='cla-inner'>
+    <image src='../../images/cla4.png'></image>
+    <text>党建服务</text>
+  </view>
+  <view class='cla-inner'>
+    <image src='../../images/cla5.png'></image>
+    <text>法律服务管理</text>
+  </view>
+  <view class='cla-inner'>
+    <image src='../../images/cla6.png'></image>
+    <text>信息化服务</text>
+  </view>
+  <view class='cla-inner'>
+    <image src='../../images/cla7.png'></image>
+    <text>知识产权服务</text>
+  </view>
+  <view class='cla-inner'>
+    <image src='../../images/cla8.png'></image>
+    <text>企业需求</text>
+  </view>
+</view>
