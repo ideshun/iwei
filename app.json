@@ -4,7 +4,9 @@
     "pages/logs/logs",
     "pages/me/me",
     "pages/classify/classify",
-    "pages/release/release"
+    "pages/release/release",
+    "pages/contacts/contacts",
+    "pages/Identity/Identity"
   ],
   "window": {
     "backgroundTextStyle": "light",
