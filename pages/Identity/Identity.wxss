@@ -1,0 +1,58 @@
+/* pages/Identity/Identity.wxss */
+.wa-list{
+  width:100%; 
+  background: rgb(240,240,240);
+}
+
+/* 2.设置每个item的样式 */
+.wa-item{
+  width: 100%;             /* 每个item所占的宽度 */
+  margin: 20rpx 0;          /* 外边距 上外边距和下外边距是 -1px  右外边距和左外边距是 0px*/
+  font-size: 32rpx;         /* 字体大小*/
+  color: #444;             /* 字体颜色*/
+  padding:30rpx;            /* 内边距 所有 4 个内边距都是 15px*/
+  box-sizing: border-box;  /* 为元素指定的任何内边距和边框都将在已设定的宽度和高度内进行绘制*/
+                           /* 参考网址：https://www.jianshu.com/p/e2eb0d8c9de6 */
+  position:relative;       /* position 属性规定元素的定位类型。 */
+                           /* relative 生成相对定位的元素，相对于其正常位置进行定位。
+                              因此，"left:20" 会向元素的 LEFT 位置添加 20 像素。*/
+  background-color: #fff;   /* 每个item的背景颜色*/
+  font-weight: bold;
+}
+
+/* 3.关于文字的样式 */
+.wa-item-ava{
+  padding-left:200rpx;  /* 内边距 左内边距是 60px*/
+  min-height: 170rpx;   /* 设置段落的最小高度*/
+}
+
+/* 4.关于第二行文字的样式 */
+.wa-item-ava .wa-item-text{
+  font-size: 28rpx;
+  position:absolute;  /* position 属性规定元素的定位类型。 */
+  top:90rpx;
+  left: 200rpx;
+}
+
+/* 5.关于图片的样式 */
+.wa-item-ava .item-img-round{
+  position:absolute;    /* position 属性规定元素的定位类型。 */
+                        /* absolute 生成绝对定位的元素，相对于 static 定位以外的第一个父元素进行定位。
+                           元素的位置通过 "left", "top", "right" 以及 "bottom" 属性进行规定。*/
+  top:30rpx;             /* 图片的上边距*/
+  left: 40rpx;           /* 图片的左边距*/
+  width: 110rpx;          /* 图片的宽度*/
+  height: 110rpx;         /* 图片的高度*/ 
+  border-radius: 50%;   /* 向 div 元素添加圆角边框*/
+}
+.weui-cell__ft_in-access {
+padding-right:13px;
+position:relative;
+
+}
+.weui-cell__ft {
+text-align:right;
+color:#999;
+font-size: 50rpx;
+top: -25rpx;
+}
