@@ -1,8 +1,54 @@
 <!--pages/me/me.wxml-->
-<view class='container'>
-<image src=''></image>
-<view class='personal'>
-<view>点击登录</view>
-<view>登录只需一秒，就能体验更多功能</view>
+<view class='cateGroup'>
+  <view class='userBox'>
+    <open-data class='meAvatarUrl' type="userAvatarUrl"></open-data>
+    <view class='userInfo'>
+      <view class='meTitle'>点击登录</view>
+      <view>登录只需一秒，就能体验更多功能</view>
+    </view>
+  </view>
 </view>
+<view class='cateGroup'>
+  <view class='meShop'>
+    <image src='/images/me_shop.png'></image>
+    <view class='shopInfo'>
+      <view class='meTitle'>我的项目店铺</view>
+      <view>FA专属·项目展示·案源收集</view>
+    </view>
+  </view>
+</view>
+<view class='cateGroup'>
+  <view class='listItem'>
+    <image class='meIcon' src='/images/me_wdhy.png'></image>
+    <text>我的好友</text>
+    <image class='meRight fr' src='/images/me_right.png'></image>
+  </view>
+  <view class='listItem'>
+    <image class='meIcon' src='/images/me_mpewm.png'></image>
+    <text>名片二维码</text>
+    <image class='meRight fr' src='/images/me_right.png'></image>
+  </view>
+  <view class='listItem'>
+    <image class='meIcon' src='/images/me_sfrz.png'></image>
+    <text>身份认证</text>
+    <image class='meRight fr' src='/images/me_right.png'></image>
+  </view>
+  <view class='listItem'>
+    <image class='meIcon' src='/images/me_wytdxm.png'></image>
+    <text>我约谈的项目</text>
+    <image class='meRight fr' src='/images/me_right.png'></image>
+  </view>
+  <view class='listItem'>
+    <image class='meIcon' src='/images/me_wdhd.png'></image>
+    <text>我的活动</text>
+    <image class='meRight fr' src='/images/me_right.png'></image>
+  </view>
+</view>
+
+<view class='cateGroup'>
+  <view class='listItem'>
+    <image class='meIcon' src='/images/me_lxkf.png'></image>
+    <text>联系客服</text>
+    <image class='meRight fr' src='/images/me_right.png'></image>
+  </view>
 </view>
