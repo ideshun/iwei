@@ -1,4 +1,4 @@
-// pages/classify/classify.js
+// pages/Identity/Identity.js
 Page({
 
   /**

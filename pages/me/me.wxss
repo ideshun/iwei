@@ -1,4 +1,89 @@
 /* pages/me/me.wxss */
-.container{
-  padding: 0 200rpx;
+
+page {
+  background: #f0f0f0;
+}
+
+view {
+  font-size: 24rpx;
+}
+
+.fr {
+  float: right;
+}
+
+.cateGroup {
+  padding: 0 40rpx;
+  margin-bottom: 35rpx;
+  background: #fff;
+  overflow: hidden;
+}
+
+.userBox {
+  padding: 30rpx 0;
+}
+
+.meAvatarUrl {
+  display: inline-block;
+  width: 145rpx;
+  height: 145rpx;
+  border-radius: 50%;
+  margin-right: 60rpx;
+  vertical-align: top;
+}
+
+.userInfo,.shopInfo {
+  display: inline-block;
+  width: 450rpx;
+}
+
+.userInfo {
+  margin-top: 10rpx;
+}
+
+.userInfo>view {
+  line-height: 60rpx;
+}
+
+.meTitle {
+  font-size: 36rpx;
+}
+
+.meShop {
+  padding: 50rpx 0;
+}
+
+.meShop .meTitle {
+  font-size: 32rpx;
+  margin-bottom: 6rpx;
+}
+
+.meShop>image {
+  width: 80rpx;
+  height: 80rpx;
+  margin-left: 30rpx;
+  margin-right: 60rpx;
+  vertical-align: top;
+}
+
+.meIcon {
+  width: 36rpx;
+  height: 36rpx;
+  vertical-align: middle;
+  margin-right: 30rpx;
+}
+
+.listItem {
+  height: 80rpx;
+  line-height: 80rpx;
+  border-top: 2rpx solid #dbdbdb;
+}
+
+.listItem:first-child {
+  border-top: none;
+}
+.meRight{
+  width: 26rpx;
+  height: 26rpx;
+  margin-top: 24rpx;
 }
