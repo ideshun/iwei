@@ -1,6 +1,11 @@
 /**index.wxss**/
 .paggg{
 }
+.sraccc{
+  width: 100%;
+  padding: 30rpx 0;
+  background: rgb(7,44,60);
+}
 .seaRch{
   width:96%;
   height: 60rpx; 

@@ -1,10 +1,13 @@
 <!--index.wxml-->
 <view class="paggg">
 <!-- 搜索 -->
-  <view class='seaRch'>
-    <image src='../images/search.png'></image>
-    <view>搜寻你的需求</view>
+  <view class='sraccc'>
+    <view class='seaRch'>
+      <image src='../images/search.png'></image>
+      <view>搜寻你的需求</view>
   </view>
+  </view>
+  
   <!-- 轮播 -->
  <swiper indicator-dots="{{indicatorDots}}" autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}">
     <block wx:for="{{imgUrls}}">
