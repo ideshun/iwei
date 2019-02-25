@@ -1,41 +1,45 @@
+<view class="question-form">
 
+  <view class="question-input-area">
 
-<form bindsubmit="formSubmit">
-  <view>
-    <view class=''>
-      <textarea placeholder='请输入要发布的内容' value='{{roomIntroduce}}' name='roomIntroduce' class='textarea'></textarea>
+    <!-- 问题标题  -->
+    <view class="question-title-wrap">
+      <input class="question-title" placeholder="请输入标题" maxlength="40" placeholder-style="color:#b3b3b3;font-size:18px;" bindinput="handleTitleInput"></input>
+      <view class="title-input-counter">{{titleCount}}/40</view>
     </view>
-   
-    <view class="weui-cells">
+
+    <!-- 问题正文  -->
+    <view class="weui-cells weui-cells_after-title">
       <view class="weui-cell">
         <view class="weui-cell__bd">
-          <view class="weui-uploader">
-            <view class="weui-uploader__hd">
-              <!-- <view class="weui-uploader__title">封面图片:</view> -->
-              <view class="weui-uploader__info"></view>
-            </view>
-            <view class="weui-uploader__bd item">
-              <view class="weui-uploader__files">
-                <view class="weui-uploader__file">
-                  <image class="weui-uploader__img itemImg" src="{{thumbPath[0]}}" data-src="{{thumbPath[0]}}" bindtap="previewImage"></image>
-                </view>
-                <view wx:if='{{thumbPath.length > 0}}'>
-                  <view bindtap='deleteImage' class='delete'>X</view>
-                </view>
-                <view class="weui-uploader__input-box itemImg" wx:else>
-                  <view class="weui-uploader__input" bindtap="chooseImage"></view>
-                </view>
-              </view>
-            </view>
-          </view>
+          <textarea class="weui-textarea" placeholder="请输入问题的正文内容。" maxlength="500" placeholder-style="color:#b3b3b3;font-size:14px;" style="height: 12rem" bindinput="handleContentInput" />
+          <view class="weui-textarea-counter">{{contentCount}}/500</view>
         </view>
       </view>
     </view>
-  </view>
-  <view>
 
   </view>
-  <button formType="submit" class='submit'>提交</button>
-</form>
+
+     <text class='pf-type'>附件上传（仅支持图片）</text>
+    <view class="question-images clearFloat">
+      <block wx:for="{{images}}" wx:key="*this">
+        <view class="q-image-wrap">
+          <!-- 图片缩略图  -->
+          <image class="q-image" src="{{item}}" mode="aspectFill" data-idx="{{index}}" bindtap="handleImagePreview"></image>
+          <!-- 移除图片的按钮  -->
+          <view class="q-image-remover" data-idx="{{index}}" bindtap="removeImage">
+            <icon class='iconfont icon-guanbi'></icon>
+          </view>
+        </view>
+      </block>
+      <view class='uploadImgBtn' bindtap="chooseImage" wx:if="{{images.length < 3}}">
+        <icon class='iconfont icon-jiahao'></icon>
+      </view>
+    </view>
 
 
+
+  <!-- 提交表单按钮  -->
+  <button class="weui-btn" type="primary" bindtap="submitForm">提交</button>
+
+</view>
