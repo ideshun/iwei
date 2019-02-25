@@ -1,21 +1,166 @@
 /**index.wxss**/
-.userinfo {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+.paggg{
 }
-
-.userinfo-avatar {
-  width: 128rpx;
-  height: 128rpx;
-  margin: 20rpx;
-  border-radius: 50%;
+.seaRch{
+  width:96%;
+  height: 60rpx; 
+  background: rgb(32, 66, 78);
+  text-align: center;
+  padding-top: 7.5rpx;
+  border-radius: 30rpx;
+  margin-left: 2%;
 }
-
-.userinfo-nickname {
-  color: #aaa;
+.seaRch image{
+  width: 35rpx;
+  height: 35rpx;
+  display: inline-block;
+  position: relative;
+  top: 5rpx;
+  right: 5rpx;
 }
+.seaRch view{
+  display: inline-block;
+  color: rgb(225, 236, 238);
+  font-size: 30rpx;
+}
+.swiper {
+  height: 400rpx;
+  width: 100%;
+}
+.swiper-image {
+  height: 100%;
+  width: 100%;
+}
+.slide-image{
+   height: 100%;
+  width: 100%;
+}
+/* fenlei */
+.ficass{
+  width: 100%;
+  margin: 30rpx 0;
+}
+.ficsmall{
+  display: inline-block;
+  width: 25%;
+  text-align: center;
+  margin: 30rpx 0;
+}
+.smaig{
+  width: 60rpx;
+}
+.textfics{
+  font-size: 28rpx;
+  margin-top: 10rpx;
+  color: #333
+}
+/* tab */
+.swiper-tab{
+    width: 100%;
+    border-bottom: 2rpx solid #ccc;
+    text-align: center;
+    height: 88rpx;
+    line-height: 88rpx;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+}
+.swiper-tab-item{
+    width: 30%; 
+    color:#434343;
+}
+.active{
+    color:#F65959;
+    border-bottom: 4rpx solid #F65959;
+}
+swiper{
+  text-align: center;
+}
+.itempg{
+  width: 100%;
+}
+.avaimg{
+  width: 130rpx;
+  height: 130rpx;
+  margin: 0 40rpx;
+}
+.crown{
+  width: 90rpx;
+}
+.lecorw{
+  text-align: left;
+  overflow:hidden;
 
-.usermotto {
-  margin-top: 200px;
+}
+.indisp{
+  float: left;
+}
+.avacen{
+  width: 50%;
+}
+.avacent{
+  overflow:hidden;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+  font-size: 32rpx;
+  font-weight: bold;
+}
+.avacenz{
+  overflow:hidden;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+  font-size: 25rpx;
+  color: #666;
+  margin: 10rpx 0;
+}
+.avayry{
+  width: 120rpx;
+  margin-left: 30rpx;
+}
+.avayim{
+  width: 40rpx;
+  display: inline-block;
+}
+.avayrtx{
+  font-size: 25rpx;
+  display: inline-block;
+  margin-left: 10rpx;
+}
+.avacenb image{
+  width: 35rpx;
+  height: 35rpx;
+}
+.company{
+  margin-top: 40rpx;
+  width: 100%;
+  height: 70rpx;
+  line-height: 70rpx;
+}
+.compig{
+  float: left;
+  width: 70rpx;
+  height: 70rpx;
+  margin: 0 25rpx;
+}
+.comtex{
+  float: left;
+}
+.compbb{
+  float:right;
+  width: 130rpx;
+  height: 60rpx;
+  margin-right: 30rpx;
+  font-size: 25rpx;
+  margin-top: 5rpx;
+  background: rgb(35,232,189);
+  color: #fff;
+  border: none;
+}
+.baanf{
+  margin-bottom: 35rpx;
+}
+.yemore{
+  text-align: center;
+  font-size: 30rpx;
+  color: #666;
 }
