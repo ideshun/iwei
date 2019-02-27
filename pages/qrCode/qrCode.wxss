@@ -1,1 +1,45 @@
 /* pages/qrCode/qrCode.wxss */
+
+page {
+  background: #f0f0f0;
+  padding: 24rpx 30rpx;
+  box-sizing: border-box;
+}
+
+.cateGroup {
+  width: 100%;
+  padding: 35rpx 45rpx;
+  margin-bottom: 35rpx;
+  background: #fff;
+  overflow: hidden;
+  border-radius: 15rpx;
+  box-sizing: border-box;
+}
+
+.card {
+  position: relative;
+}
+
+.card .name {
+  font-size: 22px;
+  margin-bottom: 35rpx;
+}
+
+.card .desc {
+  font-size: 14px;
+  margin-bottom: 18rpx;
+}
+
+.card .prof {
+  margin-left: 20rpx;
+}
+
+.card .logo {
+  width: 120rpx;
+  height: 120rpx;
+  position: absolute;
+  right: 40rpx;
+  top: 30rpx;
+  background: #f0f0f0;
+  border-radius: 50%;
+}
