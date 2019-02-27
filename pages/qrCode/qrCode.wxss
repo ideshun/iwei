@@ -1,9 +1,11 @@
 /* pages/qrCode/qrCode.wxss */
-page{
+
+page {
   background: #f0f0f0;
   padding: 24rpx 30rpx;
   box-sizing: border-box;
 }
+
 .cateGroup {
   width: 100%;
   padding: 35rpx 45rpx;
@@ -13,22 +15,26 @@ page{
   border-radius: 15rpx;
   box-sizing: border-box;
 }
-.card{
+
+.card {
   position: relative;
 }
-.card .name{
+
+.card .name {
   font-size: 22px;
   margin-bottom: 35rpx;
 }
-.card .desc{
+
+.card .desc {
   font-size: 14px;
   margin-bottom: 18rpx;
 }
-.card .prof{
+
+.card .prof {
   margin-left: 20rpx;
 }
 
-.card .logo{
+.card .logo {
   width: 120rpx;
   height: 120rpx;
   position: absolute;
