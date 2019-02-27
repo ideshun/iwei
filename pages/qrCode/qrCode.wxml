@@ -1,13 +1,2 @@
 <!--pages/qrCode/qrCode.wxml-->
-<view class='card cateGroup'> 
-  <view class='name'>姓名 <text class='desc prof'>职业</text></view> 
-  <view class='desc'>公司：</view> 
-  <view class='desc'>品牌：</view> 
-  <view class='desc'>手机：</view> 
-  <view class='desc'>邮箱：</view> 
-  <view class='logo'></view> 
-</view> 
-<view> 
-  <image src=''></image> 
-  <view>长按或者微信扫码查看更多</view> 
-</view>
+<text>pages/qrCode/qrCode.wxml</text>
