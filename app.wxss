@@ -1,4 +1,8 @@
 /**app.wxss**/
+
+.fr {
+  float: right;
+}
 .container {
   height: 100%;
   display: flex;
