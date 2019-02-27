@@ -3,7 +3,7 @@
 <!-- 搜索 -->
   <view class='sraccc'>
     <view class='seaRch'>
-      <image src='../images/search.png'></image>
+      <image src='/images/search.png'></image>
       <view>搜寻你的需求</view>
   </view>
   </view>
@@ -19,35 +19,35 @@
   <!-- 分类 -->
   <view class='ficass'>
     <view class='ficsmall'>
-      <view><image src='../images/fic1.png' class='smaig' mode="widthFix"></image></view>
+      <view><image src='/images/fic1.png' class='smaig' mode="widthFix"></image></view>
       <view class='textfics'>融资顾问</view>
     </view>
     <view class='ficsmall'>
-      <view><image src='../images/fic2.png' class='smaig' mode="widthFix"></image></view>
+      <view><image src='/images/fic2.png' class='smaig' mode="widthFix"></image></view>
       <view class='textfics'>潜在投资方</view>
     </view>
     <view class='ficsmall'>
-      <view><image src='../images/fic3.png' class='smaig' mode="widthFix"></image></view>
+      <view><image src='/images/fic3.png' class='smaig' mode="widthFix"></image></view>
       <view class='textfics'>活动</view>
     </view>
     <view class='ficsmall'>
-      <view><image src='../images/fic4.png' class='smaig' mode="widthFix"></image></view>
+      <view><image src='/images/fic4.png' class='smaig' mode="widthFix"></image></view>
       <view class='textfics'>项目池</view>
     </view>
     <view class='ficsmall'>
-      <view><image src='../images/fic5.png' class='smaig' mode="widthFix"></image></view>
+      <view><image src='/images/fic5.png' class='smaig' mode="widthFix"></image></view>
       <view class='textfics'>IT设备租赁</view>
     </view>
     <view class='ficsmall'>
-      <view><image src='../images/fic6.png' class='smaig' mode="widthFix"></image></view>
+      <view><image src='/images/fic6.png' class='smaig' mode="widthFix"></image></view>
       <view class='textfics'>访客足迹</view>
     </view>
     <view class='ficsmall'>
-      <view><image src='../images/fic7.png' class='smaig' mode="widthFix"></image></view>
+      <view><image src='/images/fic7.png' class='smaig' mode="widthFix"></image></view>
       <view class='textfics'>投资机构</view>
     </view>
     <view class='ficsmall'>
-      <view><image src='../images/fic8.png' class='smaig' mode="widthFix"></image></view>
+      <view><image src='/images/fic8.png' class='smaig' mode="widthFix"></image></view>
       <view class='textfics'>更多</view>
     </view>
   </view>
@@ -63,79 +63,79 @@
       <view>
         <image src='http://www.gslyun.org/mobile/static/img/m_156.jpg' class='itempg' mode="widthFix"></image>
         <view class='baanf'>
-          <view class='lecorw'><image src='../images/Crown.png' class='crown' mode="widthFix"></image></view>
+          <view class='lecorw'><image src='/images/Crown.png' class='crown' mode="widthFix"></image></view>
           <view class='lecorw'>
-            <image src='../images/avatar.png' class='avaimg indisp'></image>
+            <image src='/images/avatar.png' class='avaimg indisp'></image>
             <view class='avacen indisp'>
               <view class='avacent'>金融科技:场景加技术全新的系统模式</view>
               <view class='avacenz'>金融科技:场景加技术全新的系统模式</view>
               <view class='avacenb'>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
               </view>
             </view>
             <view class='avayry indisp'>
-              <image class='avayim' src='../images/yey.png' mode="widthFix"></image>
+              <image class='avayim' src='/images/yey.png' mode="widthFix"></image>
               <view class='avayrtx'>127</view>
             </view>
           </view>
           <view class='company'>
-            <image src='../images/other.png' class='compig'></image>
+            <image src='/images/other.png' class='compig'></image>
             <view class='comtex'>金融科技</view>
             <button class='compbb'>+关注</button>
           </view>
         </view>
         <view class='baanf'>
-          <view class='lecorw'><image src='../images/Crown.png' class='crown' mode="widthFix"></image></view>
+          <view class='lecorw'><image src='/images/Crown.png' class='crown' mode="widthFix"></image></view>
           <view class='lecorw'>
-            <image src='../images/avatar.png' class='avaimg indisp'></image>
+            <image src='/images/avatar.png' class='avaimg indisp'></image>
             <view class='avacen indisp'>
               <view class='avacent'>金融科技:场景加技术全新的系统模式</view>
               <view class='avacenz'>金融科技:场景加技术全新的系统模式</view>
               <view class='avacenb'>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
               </view>
             </view>
             <view class='avayry indisp'>
-              <image class='avayim' src='../images/yey.png' mode="widthFix"></image>
+              <image class='avayim' src='/images/yey.png' mode="widthFix"></image>
               <view class='avayrtx'>127</view>
             </view>
           </view>
           <view class='company'>
-            <image src='../images/other.png' class='compig'></image>
+            <image src='/images/other.png' class='compig'></image>
             <view class='comtex'>金融科技</view>
             <button class='compbb'>+关注</button>
           </view>
         </view>
         <view class='baanf'>
-          <view class='lecorw'><image src='../images/Crown.png' class='crown' mode="widthFix"></image></view>
+          <view class='lecorw'><image src='/images/Crown.png' class='crown' mode="widthFix"></image></view>
           <view class='lecorw'>
-            <image src='../images/avatar.png' class='avaimg indisp'></image>
+            <image src='/images/avatar.png' class='avaimg indisp'></image>
             <view class='avacen indisp'>
               <view class='avacent'>金融科技:场景加技术全新的系统模式</view>
               <view class='avacenz'>金融科技:场景加技术全新的系统模式</view>
               <view class='avacenb'>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
               </view>
             </view>
             <view class='avayry indisp'>
-              <image class='avayim' src='../images/yey.png' mode="widthFix"></image>
+              <image class='avayim' src='/images/yey.png' mode="widthFix"></image>
               <view class='avayrtx'>127</view>
             </view>
           </view>
           <view class='company'>
-            <image src='../images/other.png' class='compig'></image>
+            <image src='/images/other.png' class='compig'></image>
             <view class='comtex'>金融科技</view>
             <button class='compbb'>+关注</button>
           </view>
@@ -149,79 +149,79 @@
       <view>
         <image src='http://www.gslyun.org/mobile/static/img/m_156.jpg' class='itempg' mode="widthFix"></image>
         <view class='baanf'>
-          <view class='lecorw'><image src='../images/Crown.png' class='crown' mode="widthFix"></image></view>
+          <view class='lecorw'><image src='/images/Crown.png' class='crown' mode="widthFix"></image></view>
           <view class='lecorw'>
-            <image src='../images/avatar.png' class='avaimg indisp'></image>
+            <image src='/images/avatar.png' class='avaimg indisp'></image>
             <view class='avacen indisp'>
               <view class='avacent'>金融科技:场景加技术全新的系统模式</view>
               <view class='avacenz'>金融科技:场景加技术全新的系统模式</view>
               <view class='avacenb'>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
               </view>
             </view>
             <view class='avayry indisp'>
-              <image class='avayim' src='../images/yey.png' mode="widthFix"></image>
+              <image class='avayim' src='/images/yey.png' mode="widthFix"></image>
               <view class='avayrtx'>127</view>
             </view>
           </view>
           <view class='company'>
-            <image src='../images/other.png' class='compig'></image>
+            <image src='/images/other.png' class='compig'></image>
             <view class='comtex'>金融科技</view>
             <button class='compbb'>+关注</button>
           </view>
         </view>
         <view class='baanf'>
-          <view class='lecorw'><image src='../images/Crown.png' class='crown' mode="widthFix"></image></view>
+          <view class='lecorw'><image src='/images/Crown.png' class='crown' mode="widthFix"></image></view>
           <view class='lecorw'>
-            <image src='../images/avatar.png' class='avaimg indisp'></image>
+            <image src='/images/avatar.png' class='avaimg indisp'></image>
             <view class='avacen indisp'>
               <view class='avacent'>金融科技:场景加技术全新的系统模式</view>
               <view class='avacenz'>金融科技:场景加技术全新的系统模式</view>
               <view class='avacenb'>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
               </view>
             </view>
             <view class='avayry indisp'>
-              <image class='avayim' src='../images/yey.png' mode="widthFix"></image>
+              <image class='avayim' src='/images/yey.png' mode="widthFix"></image>
               <view class='avayrtx'>127</view>
             </view>
           </view>
           <view class='company'>
-            <image src='../images/other.png' class='compig'></image>
+            <image src='/images/other.png' class='compig'></image>
             <view class='comtex'>金融科技</view>
             <button class='compbb'>+关注</button>
           </view>
         </view>
         <view class='baanf'>
-          <view class='lecorw'><image src='../images/Crown.png' class='crown' mode="widthFix"></image></view>
+          <view class='lecorw'><image src='/images/Crown.png' class='crown' mode="widthFix"></image></view>
           <view class='lecorw'>
-            <image src='../images/avatar.png' class='avaimg indisp'></image>
+            <image src='/images/avatar.png' class='avaimg indisp'></image>
             <view class='avacen indisp'>
               <view class='avacent'>金融科技:场景加技术全新的系统模式</view>
               <view class='avacenz'>金融科技:场景加技术全新的系统模式</view>
               <view class='avacenb'>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
               </view>
             </view>
             <view class='avayry indisp'>
-              <image class='avayim' src='../images/yey.png' mode="widthFix"></image>
+              <image class='avayim' src='/images/yey.png' mode="widthFix"></image>
               <view class='avayrtx'>127</view>
             </view>
           </view>
           <view class='company'>
-            <image src='../images/other.png' class='compig'></image>
+            <image src='/images/other.png' class='compig'></image>
             <view class='comtex'>金融科技</view>
             <button class='compbb'>+关注</button>
           </view>
@@ -235,79 +235,79 @@
       <view>
         <image src='http://www.gslyun.org/mobile/static/img/m_156.jpg' class='itempg' mode="widthFix"></image>
         <view class='baanf'>
-          <view class='lecorw'><image src='../images/Crown.png' class='crown' mode="widthFix"></image></view>
+          <view class='lecorw'><image src='/images/Crown.png' class='crown' mode="widthFix"></image></view>
           <view class='lecorw'>
-            <image src='../images/avatar.png' class='avaimg indisp'></image>
+            <image src='/images/avatar.png' class='avaimg indisp'></image>
             <view class='avacen indisp'>
               <view class='avacent'>金融科技:场景加技术全新的系统模式</view>
               <view class='avacenz'>金融科技:场景加技术全新的系统模式</view>
               <view class='avacenb'>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
               </view>
             </view>
             <view class='avayry indisp'>
-              <image class='avayim' src='../images/yey.png' mode="widthFix"></image>
+              <image class='avayim' src='/images/yey.png' mode="widthFix"></image>
               <view class='avayrtx'>127</view>
             </view>
           </view>
           <view class='company'>
-            <image src='../images/other.png' class='compig'></image>
+            <image src='/images/other.png' class='compig'></image>
             <view class='comtex'>金融科技</view>
             <button class='compbb'>+关注</button>
           </view>
         </view>
         <view class='baanf'>
-          <view class='lecorw'><image src='../images/Crown.png' class='crown' mode="widthFix"></image></view>
+          <view class='lecorw'><image src='/images/Crown.png' class='crown' mode="widthFix"></image></view>
           <view class='lecorw'>
-            <image src='../images/avatar.png' class='avaimg indisp'></image>
+            <image src='/images/avatar.png' class='avaimg indisp'></image>
             <view class='avacen indisp'>
               <view class='avacent'>金融科技:场景加技术全新的系统模式</view>
               <view class='avacenz'>金融科技:场景加技术全新的系统模式</view>
               <view class='avacenb'>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
               </view>
             </view>
             <view class='avayry indisp'>
-              <image class='avayim' src='../images/yey.png' mode="widthFix"></image>
+              <image class='avayim' src='/images/yey.png' mode="widthFix"></image>
               <view class='avayrtx'>127</view>
             </view>
           </view>
           <view class='company'>
-            <image src='../images/other.png' class='compig'></image>
+            <image src='/images/other.png' class='compig'></image>
             <view class='comtex'>金融科技</view>
             <button class='compbb'>+关注</button>
           </view>
         </view>
         <view class='baanf'>
-          <view class='lecorw'><image src='../images/Crown.png' class='crown' mode="widthFix"></image></view>
+          <view class='lecorw'><image src='/images/Crown.png' class='crown' mode="widthFix"></image></view>
           <view class='lecorw'>
-            <image src='../images/avatar.png' class='avaimg indisp'></image>
+            <image src='/images/avatar.png' class='avaimg indisp'></image>
             <view class='avacen indisp'>
               <view class='avacent'>金融科技:场景加技术全新的系统模式</view>
               <view class='avacenz'>金融科技:场景加技术全新的系统模式</view>
               <view class='avacenb'>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
-                <image src='../images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
+                <image src='/images/rating.png'></image>
               </view>
             </view>
             <view class='avayry indisp'>
-              <image class='avayim' src='../images/yey.png' mode="widthFix"></image>
+              <image class='avayim' src='/images/yey.png' mode="widthFix"></image>
               <view class='avayrtx'>127</view>
             </view>
           </view>
           <view class='company'>
-            <image src='../images/other.png' class='compig'></image>
+            <image src='/images/other.png' class='compig'></image>
             <view class='comtex'>金融科技</view>
             <button class='compbb'>+关注</button>
           </view>

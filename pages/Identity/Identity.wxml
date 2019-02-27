@@ -2,31 +2,31 @@
 <view class="wa-list">
 
    <view class="wa-item wa-item-ava">
-      <image class="item-img-round" src="../images/buyer.png"></image>
+      <image class="item-img-round" src="/images/buyer.png"></image>
       我是买方FA
       <text class='wa-item-text'>帮助大企业寻找优质项目的人</text>
       <view class='weui-cell__ft weui-cell__ft_in-access'> ﹥</view>
     </view>
     <view class="wa-item wa-item-ava">
-      <image class="item-img-round" src="../images/seller.png"></image>
+      <image class="item-img-round" src="/images/seller.png"></image>
       我是卖方FA
       <text class='wa-item-text'>帮助优秀项目融资陪跑的人</text>
       <view class='weui-cell__ft weui-cell__ft_in-access'> ﹥</view>
     </view>
     <view class="wa-item wa-item-ava">
-      <image class="item-img-round" src="../images/investment.png"></image>
+      <image class="item-img-round" src="/images/investment.png"></image>
       我是投资方
       <text class='wa-item-text'>拥有资金寻找优秀项目的人</text>
       <view class='weui-cell__ft weui-cell__ft_in-access'> ﹥</view>
     </view>
     <view class="wa-item wa-item-ava">
-      <image class="item-img-round" src="../images/entrepreneur.png"></image>
+      <image class="item-img-round" src="/images/entrepreneur.png"></image>
       我是创业者
       <text class='wa-item-text'>正在做一件伟大的事</text>
       <view class='weui-cell__ft weui-cell__ft_in-access'> ﹥</view>
     </view>
 <view class="wa-item wa-item-ava">
-      <image class="item-img-round" src="../images/other.png"></image>
+      <image class="item-img-round" src="/images/other.png"></image>
       其他
       <text class='wa-item-text'>政府、公益组织、高校等用户</text>
       <view class='weui-cell__ft weui-cell__ft_in-access'> ﹥</view>

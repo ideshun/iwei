@@ -12,7 +12,7 @@ Page({
       users: [
         {
           name: '阿码',
-          avatar: '../images/avatar.png'
+          avatar: '/images/avatar.png'
         }
       ]
     },
@@ -21,11 +21,11 @@ Page({
       users: [
         {
           name: '白娘子',
-          avatar: '../images/avatar.png'
+          avatar: '/images/avatar.png'
         },
         {
           name: '包天齐',
-          avatar: '../images/avatar.png'
+          avatar: '/images/avatar.png'
         }
       ]
     },
@@ -34,15 +34,15 @@ Page({
       users: [
         {
           name: '陈大年',
-          avatar: '../images/avatar.png'
+          avatar: '/images/avatar.png'
         },
         {
           name: '丛云山',
-          avatar: '../images/avatar.png'
+          avatar: '/images/avatar.png'
         },
         {
           name: '崔鸣贵',
-          avatar: '../images/avatar.png'
+          avatar: '/images/avatar.png'
         }
       ]
     },
@@ -51,15 +51,15 @@ Page({
       users: [
         {
           name: '邓牛牛',
-          avatar: '../images/avatar.png'
+          avatar: '/images/avatar.png'
         },
         {
           name: '刁仁衣',
-          avatar: '../images/avatar.png'
+          avatar: '/images/avatar.png'
         },
         {
           name: '杜长城',
-          avatar: '../images/avatar.png'
+          avatar: '/images/avatar.png'
         }
       ]
     },
@@ -68,11 +68,11 @@ Page({
       users: [
         {
           name: '范长龙',
-          avatar: '../images/avatar.png'
+          avatar: '/images/avatar.png'
         },
         {
           name: '冯肖晓',
-          avatar: '../images/avatar.png'
+          avatar: '/images/avatar.png'
         }
       ]
     },
@@ -81,15 +81,15 @@ Page({
       users: [
         {
           name: '甘地',
-          avatar: '../images/avatar.png'
+          avatar: '/images/avatar.png'
         },
         {
           name: '高墙',
-          avatar: '../images/avatar.png'
+          avatar: '/images/avatar.png'
         },
         {
           name: '宫都举',
-          avatar: '../images/avatar.png'
+          avatar: '/images/avatar.png'
         }
       ]
     },
@@ -98,15 +98,15 @@ Page({
       users: [
         {
           name: '何芸',
-          avatar: '../images/avatar.png'
+          avatar: '/images/avatar.png'
         },
         {
           name: '胡坨坨',
-          avatar: '../images/avatar.png'
+          avatar: '/images/avatar.png'
         },
         {
           name: '黄坨坨',
-          avatar: '../images/avatar.png'
+          avatar: '/images/avatar.png'
         }
       ]
     },
@@ -115,15 +115,15 @@ Page({
       users: [
         {
           name: '谭老头儿',
-          avatar: '../images/avatar.png'
+          avatar: '/images/avatar.png'
         },
         {
           name: '汤云西',
-          avatar: '../images/avatar.png'
+          avatar: '/images/avatar.png'
         },
         {
           name: '图图',
-          avatar: '../images/avatar.png'
+          avatar: '/images/avatar.png'
         }
       ]
     },
@@ -132,15 +132,15 @@ Page({
       users: [
         {
           name: '夏一天',
-          avatar: '../images/avatar.png'
+          avatar: '/images/avatar.png'
         },
         {
           name: '鲜轰轰',
-          avatar: '../images/avatar.png'
+          avatar: '/images/avatar.png'
         },
         {
           name: '谢大佩',
-          avatar: '../images/avatar.png'
+          avatar: '/images/avatar.png'
         }
       ]
     }
