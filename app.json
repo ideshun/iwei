@@ -6,7 +6,8 @@
     "pages/classify/classify",
     "pages/release/release",
     "pages/contacts/contacts",
-    "pages/Identity/Identity"
+    "pages/Identity/Identity",
+    "pages/qrCode/qrCode"
   ],
   "window": {
     "backgroundTextStyle": "light",
