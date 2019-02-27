@@ -1,1 +1,22 @@
 /* pages/message/message.wxss */
+page{
+  background: #f0f0f0;
+}
+.projectCate{
+  background: #FFF;
+  margin-bottom:20rpx;
+  height: 140rpx;
+  line-height: 140rpx;
+  padding: 10rpx 40rpx;
+}
+.projectCate .projIcon{
+  width: 100rpx;
+  height: 100rpx;
+  vertical-align: middle;
+  margin-right: 20rpx;
+}
+.projectCate image.fr{
+  width: 36rpx;
+  height: 36rpx;
+  margin-top: 50rpx;
+}
