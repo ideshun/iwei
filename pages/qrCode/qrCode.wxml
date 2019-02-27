@@ -5,9 +5,9 @@
   <view class='desc'>品牌：</view> 
   <view class='desc'>手机：</view> 
   <view class='desc'>邮箱：</view> 
-  <view class='logo'></view> 
+  <view class='logo'>LOGO</view> 
 </view> 
-<view> 
-  <image src=''></image> 
-  <view>长按或者微信扫码查看更多</view> 
+<view class='cateGroup miniCode'> 
+  <image src='/images/MiniCode.jpg' mode='widthFix'></image> 
+  <view>识别小程序码查看更多</view> 
 </view>
