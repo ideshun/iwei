@@ -7,7 +7,8 @@
     "pages/release/release",
     "pages/contacts/contacts",
     "pages/Identity/Identity",
-    "pages/qrCode/qrCode"
+    "pages/qrCode/qrCode",
+    "pages/message/message"
   ],
   "window": {
     "backgroundTextStyle": "light",

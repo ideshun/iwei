@@ -1,0 +1,16 @@
+<!--pages/message/message.wxml-->
+<view class='projectCate'>
+  <image class='projIcon' src='/images/xmsq.png'></image>
+  项目申请
+  <image class='fr' src='/images/me_right.png'></image>
+</view>
+<view class='projectCate'>
+  <image class='projIcon' src='/images/xmtj.png'></image>
+  项目申请
+  <image class='fr' src='/images/me_right.png'></image>
+</view>
+<view class='projectCate'>
+  <image class='projIcon' src='/images/xdpy.png'></image>
+  项目申请
+  <image class='fr' src='/images/me_right.png'></image>
+</view>

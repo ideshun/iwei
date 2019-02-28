@@ -43,3 +43,12 @@ page {
   background: #f0f0f0;
   border-radius: 50%;
 }
+
+.miniCode{
+  text-align: center;
+  font-size: 14px;
+}
+.miniCode image{
+  width: 50%;
+  margin: 30rpx 0;
+}

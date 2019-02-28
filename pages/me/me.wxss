@@ -8,9 +8,6 @@ view {
   font-size: 24rpx;
 }
 
-.fr {
-  float: right;
-}
 
 .cateGroup {
   padding: 0 40rpx;
