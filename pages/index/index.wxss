@@ -73,10 +73,12 @@
 .swiper-tab-item{
     width: 30%; 
     color:#434343;
+    font-size: 30rpx;
 }
 .active{
     color:#F65959;
     border-bottom: 4rpx solid #F65959;
+    font-weight: bold;
 }
 swiper{
   text-align: center;
