@@ -1,7 +1,184 @@
 
+
+page {
+ 
+  background: #f6f7f8;
+ 
+}
+ 
+
+ 
+.question-form {
+ 
+  margin: 25rpx;
+ 
+}
+
 .setform{
   padding: 0 20rpx;font-size: 24rpx;
+
 }
+
+.setform{
+  padding: 0 20rpx;font-size: 24rpx;
+
+}
+ 
+
+
+ 
+.question-input-area {
+ 
+  background-color: #fff;
+ 
+  border: 1rpx solid #f2f2f2;
+ 
+  border-radius: 4rpx;
+ 
+}
+ 
+
+ 
+.question-title-wrap {
+ 
+  display: flex;
+ 
+  align-items: center;
+ 
+  border-bottom: 1rpx solid #ccc;
+ 
+  margin: 10rpx 30rpx;
+ 
+  padding: 20rpx 0;
+ 
+}
+ 
+
+ 
+.question-title {
+ 
+  flex: 1;
+ 
+}
+ 
+.weui-textarea{
+ 
+  padding: 10px;
+ 
+}
+ 
+.weui-textarea-counter, .title-input-counter {
+ 
+  color: #b3b3b3;
+ 
+  font-size: 14px;
+ 
+  padding-left: 10rpx;
+ 
+}
+ 
+
+ 
+.weui-cell::before, .weui-cells::before, .weui-cell::after, .weui-cells::after {
+ 
+  border: none;
+ 
+}
+ 
+.clearFloat{
+ 
+  overflow: hidden;margin-bottom: 10px;
+ 
+}
+ 
+.q-image{
+ 
+  width: 64px;height: 64px;
+ 
+}
+ 
+ 
+ 
+.q-image-wrap{
+ 
+  width: 150rpx;
+ 
+  height: 150rpx;
+ 
+  border: 3px solid #f0f0f0;
+ 
+  float: left;
+ 
+  margin-right: 20rpx;
+ 
+  position: relative;
+ 
+  overflow: hidden;
+ 
+}
+ 
+.q-image-remover{
+ 
+  width: 100rpx;
+ 
+  height: 100rpx;
+ 
+  border-radius: 100%;
+ 
+  background: #2e82ff;
+ 
+  position: absolute;
+ 
+  top:-50rpx;
+ 
+  right:-50rpx;
+ 
+ 
+ 
+}
+ 
+.q-image-remover icon{
+ 
+  position: absolute;
+ 
+  left:12rpx;
+ 
+  bottom:12rpx;
+ 
+  color:#fff;
+ 
+}
+ 
+ 
+ 
+.uploadImgBtn{
+ 
+  width: 150rpx;
+ 
+  height: 150rpx;
+ 
+  text-align: center;
+ 
+  line-height: 140rpx;
+ 
+  border: 6rpx solid #d9d9d9;
+ 
+  float: left;
+ 
+}
+ 
+.uploadImgBtn icon{
+ 
+  font-size: 80rpx;
+ 
+  color: #999;
+ 
+}
+ 
+.weui-btn{
+ 
+}
+ 
 
 .formname{
   float: left;line-height: 52rpx;font-weight: bold;
