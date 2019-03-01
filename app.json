@@ -8,7 +8,8 @@
     "pages/contacts/contacts",
     "pages/Identity/Identity",
     "pages/qrCode/qrCode",
-    "pages/message/message"
+    "pages/message/message",
+    "pages/search/search"
   ],
   "window": {
     "backgroundTextStyle": "light",
