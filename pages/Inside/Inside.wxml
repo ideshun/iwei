@@ -55,7 +55,7 @@
     <image src='/images/msg.png'></image> 
     <view class='fiparte'>分享</view> 
   </view> 
-  <view class='fifth_part'> 
+  <view class='fifth_part' bindtap="modalinput"> 
     <image src='/images/msg.png'></image> 
     <view class='fiparte'>评论</view> 
   </view> 
@@ -64,3 +64,6 @@
         </view> 
     </view> 
 </view>
+<modal hidden="{{hiddenmodalput}}" title="我的评论" confirm-text="确定" cancel-text="取消" bindcancel="cancel" bindconfirm="confirm"> 
+ <input type='text'placeholder="我的评论" auto-focus/>
+</modal>
