@@ -1,0 +1,66 @@
+<view class="page"> 
+     
+    <view class="page__bd"> 
+        <view class="weui-article"> 
+            <view class="weui-article__section"> 
+                    <view class="weui-article__h3">内容页的题目</view> 
+                     <view class="weui-article__p"> 
+                        <image class="weui-article__img" src="http://sc.jb51.net/uploads/allimg/150403/10-1504031H411E6.jpg" mode="widthFix"/> 
+                    </view> 
+                    <view class="weui-article__p"> 
+                        图片免费下载电商素材,平面素材,APP/UI素材,H5素材.海报背景Banner素材千库网专注PNG免抠图片,包含平面图片,APP/UI素材,H5图片.海报背景Banner图片模板素材图片免费下载电商素材,平面素材,APP/UI素材,H5素材.海报背景Banner素材千库网专注PNG免抠图片,包含平面图片,APP/UI素材,H5图片.海报背景Banner图片模板素材图片免费下载电商素材,平面素材,APP/UI素材,H5素材.海报背景Banner素材千库网专注PNG免抠图片,包含平面图片,APP/UI素材,H5图片.海报背景Banner图片模板素材 
+                    </view> 
+            </view> 
+            <!-- 评论区 --> 
+            <view class='comment'> 
+              <view class='titl_comment'>全部评论</view> 
+              <view class="show"> 
+                    <!-- 列表 --> 
+                      <view class='sele_ted'> 
+                        <image src='/images/timg@2x.png'></image> 
+                        <view class='sele_name'>C罗****优</view> 
+                        <view class='sele_time'> 
+                          <image src="/images/zanzan.png"  bindtap="toCollect"></image> 
+                          <text>2018-5-20</text> 
+                           
+                        </view> 
+                         
+                      </view> 
+                      <view class='sele_more'>喜欢的点波推荐啊，关注投币收藏一条龙啊。如果你此刻需要什么或者你有什么好玩的都可以来我们的QQ群一起分享1</view> 
+                    <!-- 列表 --> 
+                      <view class='sele_ted'> 
+                        <image src='/images/timg@2x.png'></image> 
+                        <view class='sele_name'>C罗****优</view> 
+                        <view class='sele_time'> 
+                          <image src="/images/zanzan.png"  bindtap="toCollect"></image> 
+                          <text>2018-5-20</text> 
+                        </view> 
+                         
+                      </view> 
+                      <view class='sele_more'>喜欢的点波推荐啊，关注投币收藏一条龙啊。如果你此刻需要什么或者你有什么好玩的都可以来我们的QQ群一起分享 
+      
+     
+     
+                      </view> 
+                    </view> 
+            </view> 
+            <!-- dibu  --> 
+            <!-- 底部悬浮栏 --> 
+<view class="detail-nav"> 
+  <view class='fifth_part'> 
+    <image src='/images/home.png'></image> 
+    <view class='fiparte'>首页</view> 
+  </view> 
+  <view class='fifth_part'> 
+    <image src='/images/msg.png'></image> 
+    <view class='fiparte'>分享</view> 
+  </view> 
+  <view class='fifth_part'> 
+    <image src='/images/msg.png'></image> 
+    <view class='fiparte'>评论</view> 
+  </view> 
+  <view class='fifth_part2'>联系TA</view> 
+</view> 
+        </view> 
+    </view> 
+</view>
