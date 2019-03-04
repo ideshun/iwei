@@ -9,7 +9,9 @@
     "pages/Identity/Identity",
     "pages/qrCode/qrCode",
     "pages/message/message",
-    "pages/list/list"
+    "pages/list/list",
+    "pages/search/search",
+    "pages/Inside/Inside"
   ],
   "window": {
     "backgroundTextStyle": "light",
