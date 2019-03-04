@@ -1,0 +1,224 @@
+page{
+ 
+    background-color: #FFFFFF;
+ 
+}
+ 
+.weui-article {
+ 
+padding:20px 15px;
+ 
+font-size:15px;
+ 
+
+ 
+}
+ 
+.weui-article__h1 {
+ 
+font-size:18px;
+ 
+font-weight:400;
+ 
+margin-bottom:.9em;
+ 
+
+ 
+}
+ 
+.weui-article__section {
+ 
+margin-bottom:1.5em;
+ 
+
+ 
+}
+ 
+.weui-article__h3 {
+ 
+font-size:35rpx;
+ 
+margin-bottom:.34em;
+ 
+text-align: center;
+ 
+font-weight: bold;
+ 
+}
+ 
+.weui-article__p {
+ 
+margin:0 0 .8em;
+ 
+
+ 
+}
+ 
+.weui-article__img{
+ 
+  width: 100%;
+ 
+}
+ 
+.titl_comment{
+ 
+  font-weight: bold;
+ 
+  font-size: 33rpx;
+ 
+  border-bottom: 1px solid rgb(182, 179, 179);
+ 
+  padding-bottom: 25rpx;
+ 
+  margin: 30rpx 0;
+ 
+}
+ 
+.show{display:block;text-align:center;line-height:200rpx;width: 94%;margin-left: 3%;}
+ 
+.hidden{display:none;text-align:center;line-height:200px;}
+ 
+.bc_white{
+ 
+  display:flex;
+ 
+}
+ 
+.sele_ted{
+ 
+  height: 135rpx;
+ 
+}
+ 
+.sele_ted image{
+ 
+  width:130rpx;
+ 
+height:130rpx;
+ 
+float:left;
+ 
+}
+ 
+.sele_name{
+ 
+  float: left;
+ 
+  margin-left: 5%;
+ 
+  height:130rpx;
+ 
+line-height:130rpx; 
+ 
+}
+ 
+.sele_time{
+ 
+  float: right;
+ 
+  height:130rpx;
+ 
+line-height:130rpx;
+ 
+color:#777;
+ 
+font-size: 32rpx;
+ 
+}
+ 
+.sele_more{
+ 
+line-height:50rpx;
+ 
+font-size:28rpx;
+ 
+margin-left:0rpx;
+ 
+text-indent:50rpx;
+ 
+text-align: left;
+ 
+margin-bottom:50rpx;
+ 
+}
+ 
+
+ 
+.sele_ted .sele_time image {
+ 
+width:40rpx;
+ 
+height:40rpx;
+ 
+float:none;
+ 
+position:relative;
+ 
+top:5rpx;
+ 
+
+ 
+}
+ 
+/* dibu */
+ 
+.detail-nav {
+ 
+  display: flex;
+ 
+  flex-direction: row;
+ 
+  align-items: center;
+ 
+  float: left;
+ 
+  background-color: #fff;
+ 
+  position: fixed;
+ 
+  bottom: 0;
+ 
+  right: 0;
+ 
+  z-index: 1;
+ 
+  width: 100%;
+ 
+  height: 100rpx;
+ 
+  text-align: center;
+ 
+}
+ 
+.fifth_part{
+ 
+  width: 20%;
+ 
+
+ 
+}
+ 
+.fifth_part2{
+ 
+  width: 40%;
+ 
+  background: rgb(31, 211, 174);
+ 
+  height: 100%;
+ 
+  line-height: 100rpx;
+ 
+  color: #fff;
+ 
+  font-size: 35rpx;
+ 
+}
+ 
+.fifth_part image{
+ 
+  width: 40rpx;
+ 
+  height: 40rpx;
+ 
+}
+ 
