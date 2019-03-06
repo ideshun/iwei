@@ -1,2 +1,34 @@
 <!--pages/list/list.wxml-->
-<text>pages/list/list.wxml</text>
+<view class='list-banner'>
+  #活动列表#
+</view>
+<!-- 搜索 -->
+<view class='sraccc'>
+  <view class='seaRch'>
+    <image src='/images/search.png'></image>
+    <view>搜寻你的需求</view>
+  </view>
+</view>
+
+<view class='list-item'>
+  <image src='' class='activity-img' />
+  <view class='activity-info'>
+    <view class='item-title'>正能量——省会非公经济正能量——省会非公经济</view>
+    <view class='item-time'>2019-02-03</view>
+    <view class='item-other'>
+      <image class='item-icon' src='/images/looks.png' />20
+      <image class='item-icon' src='/images/zan.png' />20
+      <image class='item-icon' src='/images/share.png' />20 </view>
+  </view>
+</view>
+<view class='list-item'>
+  <image src='' class='activity-img' />
+  <view class='activity-info'>
+    <view>正能量——省会非公经济正能量——省会非公经济</view>
+    <view class='item-time'>2019-02-03</view>
+    <view class='item-other'>
+      <image class='item-icon' src='/images/looks.png' />20
+      <image class='item-icon' src='/images/zan.png' />20
+      <image class='item-icon' src='/images/share.png' />20 </view>
+  </view>
+</view>

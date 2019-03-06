@@ -1,1 +1,66 @@
 /* pages/list/list.wxss */
+page{
+  font-size: 14px;
+}
+.sraccc{
+  width: 100%;
+  padding: 30rpx 0;
+}
+.seaRch{
+  width:96%;
+  height: 60rpx; 
+  background: #f2f2f2;
+  text-align: center;
+  padding-top: 7.5rpx;
+  border-radius: 30rpx;
+  margin-left: 2%;
+}
+.seaRch image{
+  width: 35rpx;
+  height: 35rpx;
+  display: inline-block;
+  position: relative;
+  top: 5rpx;
+  right: 5rpx;
+}
+.seaRch view{
+  display: inline-block;
+  color: #999999;
+  font-size: 30rpx;
+}
+.list-banner{
+  width: 100%;
+  height: 300rpx;
+  background: #1e5c75;
+  color: #FFF;
+  text-align: center;
+  line-height: 300rpx;
+}
+.list-item{
+  padding: 25rpx;
+  border-bottom: 2rpx solid #f2f2f2;
+  line-height: 50rpx;
+}
+.activity-img{
+  width: 200rpx;
+  height: 200rpx;
+  background: #727272;
+  float: left;
+}
+.activity-info{
+  display: inline-block;
+  width: 480rpx;
+  float: right;
+}
+.item-icon{
+  width: 36rpx;
+  height: 36rpx;
+  margin: 0 5rpx;
+}
+.item-title{
+  height: 100rpx;
+}
+.item-time,
+.item-other{
+  color: #727272;
+}
