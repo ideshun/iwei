@@ -44,7 +44,7 @@ page{
 .activity-img{
   width: 200rpx;
   height: 200rpx;
-  background: #727272;
+  background: #f2f2f2;
   float: left;
 }
 .activity-info{
